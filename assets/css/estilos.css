@@ -12,6 +12,10 @@ body {
   font-size: x-large;
   color: #d7d3d4;
 }
+.navbar-brand:hover{
+  color: #e6793e;
+}
+
 .nav-link{
   color: #d7d3d4;
 }
@@ -74,5 +78,7 @@ body {
   .navbar-brand{
     width: 100px;
   }
-
+  #brand-name{
+    margin-bottom: 0px;
+  }
 }
