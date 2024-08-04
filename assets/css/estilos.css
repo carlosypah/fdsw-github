@@ -45,8 +45,6 @@ body {
   
 }
 /* Hero Section */
-
-
 #Hero-Section {
   background-image: url("../img/bg-monk.jpg");
   background-repeat: no-repeat;
@@ -55,7 +53,6 @@ body {
 }
 
 /* Mis trabajos */
-
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -69,7 +66,6 @@ body {
   font-weight: 700;
   color: #373a3c;
 }
-
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
