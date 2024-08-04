@@ -23,9 +23,22 @@ body {
   border: #c04d0f solid 2px;
   color: #d7d3d4;
 }
-
+.btn-accion-secundaria:hover{
+  color:#c04d0f;
+}
 .seccion-aportes{
   background-color: #647595;
+}
+.btn-aportes{
+  border: #c04d0f solid 2px;
+  color: #c04d0f;
+
+}
+.btn-aportes:hover{
+  border: #c04d0f solid 2px;
+  background-color:#c04d0f;
+  color: white;
+  
 }
 /* Hero Section */
 
